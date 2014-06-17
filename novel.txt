@@ -1,4 +1,4 @@
-
+﻿
 He didn't know why they were there... but they were.
 
 There was a dark and mysterious gloom hanging over the lodge.
@@ -7,8 +7,12 @@ The smell of gun powder filled the air, but s/he lit a cigarrette anyway, remain
 
 S/He ate a banana.
 
+<<<<<<< HEAD
 Because he was a monkey. Yeah, a monkey.
 
 But this was no ordinary monkey. Monkeys don't smoke.
 
 It was the monkey from Hangover 2, or 3. Whichever one they're in Bangkok for. The one that sells dope. That monkey.
+=======
+Cocaine’s a hell of a drug. "I'M RICK JAMES BITCH!" s/he yelled as s/he pulled out their...
+>>>>>>> 2f416d23092bbbad349c924035f74e992f06efb0
